@@ -7,7 +7,7 @@ permalink: /:title/
 
 # Setup
 title:            Alice Wang
-tagline:          'Some study notes'
+tagline:          'Notes'
 description:      'Mathematics, programming and finance'
 url:              http://aliciawyy.github.io
 baseurl:          /
