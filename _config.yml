@@ -15,6 +15,7 @@ baseurl:          /
 author:
   name:           'Alice Wang'
   url:             
+  email: alicia.wang12@gmail.com
   # URL of your avatar or profile pic (you could use your GitHub profile pic)
   avatar: https://avatars2.githubusercontent.com/u/6472721?v=3&s=460
 
