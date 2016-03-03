@@ -25,12 +25,17 @@ A criticism of the P/E 10 ratio is that it is not always accurate in signaling m
 
 ### Related Topics
 
-- [Earnings Per Share (EPS)](http://www.investopedia.com/terms/e/eps.asp) is the portion of a company's profit allocated to each outstanding share of common stock. Earnings per share serves as an indicator of a company's profitability.
+- [Earnings Per Share (EPS)](http://www.investopedia.com/terms/e/eps.asp) is the portion of a company's profit allocated to each outstanding share of common stock. Earnings per share serves as an indicator of a company's profitability. EPS is calculated as
+
+<p align="center">
+EPS = net income / average outstanding common shares</center>
+</p>
 
 - [P/E Ratio](http://www.investopedia.com/terms/p/price-earningsratio.asp) - Price-Earnings Ratio is the ratio that measures its current share price relative to its per-share earnings. It can be calculated as
 
-   <center>Market Value per Share / Earnings per Share</center>
-
+<p align="center">
+Market Value per Share / Earnings per Share</center>
+</p>
 
 
 
