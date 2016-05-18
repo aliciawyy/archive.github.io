@@ -15,7 +15,7 @@ $$
 DD_t = \big[ (HWM_t - P_t) / HWM_t \big]^+
 $$
 
-- **Maximum Drawdown** over the past time period is
+- **Maximum Drawdown** (MDD) over the past time period is
 
 $$
 MDD_T = \max_{t \leq T} DD_t
